@@ -3,7 +3,13 @@
 You can check out the [live demo of Gróa here](http://www.groa.us/).
 
 ## Contributors
-
+### Team Lead
+ |                                       [Marvin Davila](https://github.com/malexmad)                                        |
+| :-----------------------------------------------------------------------------------------------------------: |
+|                      [<img src="" width = "200" />](https://github.com/malexmad)                       |
+|                 [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/malexmad)                 |
+| [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in/marvin-davila/) |
+### Data Science Team
 |                                       [Michael Gospodinoff](https://github.com/cmgospod)                                        |                                       [Gabe flomo](https://github.com/gabe-flomo)                                        |                                       [Jeff Rowe](https://github.com/Jeffrowetull)                                        |                                       [Coop Williams](https://github.com/coopwilliams)                                        |                                       [Eric Smith](https://github.com/moviedatascience)                                        |
 | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
 |                      [<img src="https://avatars1.githubusercontent.com/u/53590416?s=400&u=1ddb3c7742a0c79a8d108b2aeff7680e32faa29e&v=4" width = "200" />](https://github.com/cmgospod)                       |                      [<img src="https://avatars0.githubusercontent.com/u/44428182?s=460&v=4" width = "200" />](https://github.com/gabe-flomo)                       |                      [<img src="https://avatars0.githubusercontent.com/u/18298291?s=460&v=4" width = "200" />](https://github.com/Jeffrowetull)                       |                      [<img src="https://avatars2.githubusercontent.com/u/6357375?s=460&v=4" width = "200" />](https://github.com/)                       |                      [<img src="https://ca.slack-edge.com/T4JUEB3ME-ULYDF6SMC-gee06200f773-512" width = "200" />](https://www.imdb.com/title/tt0047522/videoplayer/vi375194649)                       |
